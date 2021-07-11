@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "lastname": "Dupont",
+        "firstname": "Jean",
+        "birthdate": "1991-03-07",
+        "contact":[
+            {
+                "type": "email",
+                "value": "jean.dupont@mail.com"
+            },
+            {
+                "type": "poste",
+                "value": "316"
+            },
+            {
+                "type": "mobile",
+                "value": "0601020304"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "lastname": "Dufresne",
+        "firstname": "Emilie",
+        "birthdate": "1996-08-20",
+        "contact":[
+            {
+                "type": "email",
+                "value": "emilie.dufresne@mail.com"
+            },
+            {
+                "type": "poste",
+                "value": "278"
+            },
+            {
+                "type": "mobile",
+                "value": "0604030201"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "lastname": "Pasteur",
+        "firstname": "Jacques",
+        "birthdate": "1974-01-16",
+        "contact":[
+            {
+                "type": "email",
+                "value": "jacques.pasteur@mail.com"
+            },
+            {
+                "type": "poste",
+                "value": "101"
+            },
+            {
+                "type": "mobile",
+                "value": "0609080706"
+            }
+        ]
+    }
+]

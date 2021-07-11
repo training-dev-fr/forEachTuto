@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "lastname": "Dupont",
+        "firstname": "Jean",
+        "birthdate": "1991-03-07",
+        "email": "jean.dupont@mail.com"
+    },
+    {
+        "id": 4,
+        "lastname": "Dufresne",
+        "firstname": "Emilie",
+        "birthdate": "1996-08-20",
+        "email": "emilie.dufresne@mail.com"
+    },
+    {
+        "id": 13,
+        "lastname": "Pasteur",
+        "firstname": "Jacques",
+        "birthdate": "1974-01-16",
+        "email": "jacques.pasteur@mail.com"
+    }
+]
